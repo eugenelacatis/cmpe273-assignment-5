@@ -1,0 +1,11 @@
+[worker A] 18:01:34.551080 waiting for orders on queue "orders"
+[worker A] 18:01:35.340730 received event_id=evt-1792976495-1002 order_id=ORD-1002 item_id=ITEM-02 qty=2 redelivered=false
+[worker A] 18:01:35.340945 processing order ORD-1002 (2 x ITEM-02)...
+[worker A] 18:01:36.342552 done order ORD-1002, ACK sent
+[worker A] 18:01:36.343528 received event_id=evt-1792976495-1004 order_id=ORD-1004 item_id=ITEM-04 qty=1 redelivered=false
+[worker A] 18:01:36.343639 processing order ORD-1004 (1 x ITEM-04)...
+[worker A] 18:01:37.345144 done order ORD-1004, ACK sent
+[worker A] 18:01:37.347746 received event_id=evt-1792976495-1006 order_id=ORD-1006 item_id=ITEM-01 qty=3 redelivered=false
+[worker A] 18:01:37.347975 processing order ORD-1006 (3 x ITEM-01)...
+[worker A] 18:01:38.350232 done order ORD-1006, ACK sent
+[worker A] 18:01:40.357880 shutting down

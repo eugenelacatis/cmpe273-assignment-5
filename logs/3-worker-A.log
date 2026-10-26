@@ -1,0 +1,7 @@
+[worker A] 18:01:56.459319 received event_id=evt-1792976516-3001 order_id=ORD-3001 item_id=ITEM-01 qty=1 redelivered=false
+[worker A] 18:01:56.460255 processing order ORD-3001 (1 x ITEM-01)...
+[worker A] 18:01:57.461776 done order ORD-3001, ACK sent
+[worker A] 18:01:57.464725 received event_id=evt-1792976516-3003 order_id=ORD-3003 item_id=ITEM-03 qty=3 redelivered=false
+[worker A] 18:01:57.464955 processing order ORD-3003 (3 x ITEM-03)...
+[worker A] 18:01:58.466927 done order ORD-3003, ACK sent
+[worker A] 18:02:00.487154 shutting down

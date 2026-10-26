@@ -1,0 +1,7 @@
+[worker B] 18:01:55.430737 waiting for orders on queue "orders"
+[worker B] 18:01:56.463134 received event_id=evt-1792976516-3002 order_id=ORD-3002 item_id=ITEM-02 qty=2 redelivered=false
+[worker B] 18:01:56.463381 processing order ORD-3002 (2 x ITEM-02)...
+[worker B] 18:01:57.464169 done order ORD-3002, ACK sent
+[worker B] 18:01:57.465248 received event_id=evt-1792976516-3001 order_id=ORD-3001 item_id=ITEM-01 qty=1 redelivered=false
+[worker B] 18:01:57.465420 DUPLICATE detected event_id=evt-1792976516-3001, skipping business action
+[worker B] 18:02:00.487189 shutting down

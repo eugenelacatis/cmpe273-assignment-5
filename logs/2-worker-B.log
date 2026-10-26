@@ -1,0 +1,3 @@
+[worker B] 18:01:47.178834 waiting for orders on queue "orders"
+[worker B] 18:01:48.734180 received event_id=evt-1792976508-2001 order_id=ORD-2001 item_id=ITEM-01 qty=1 redelivered=false
+[worker B] 18:01:48.734313 SIMULATED CRASH: exiting before ACK for ORD-2001

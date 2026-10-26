@@ -1,0 +1,5 @@
+[producer] 18:01:56.461484 published {"event_id":"evt-1792976516-3001","order_id":"ORD-3001","item_id":"ITEM-01","quantity":1}
+[producer] 18:01:56.463940 published {"event_id":"evt-1792976516-3002","order_id":"ORD-3002","item_id":"ITEM-02","quantity":2}
+[producer] 18:01:56.466082 published {"event_id":"evt-1792976516-3003","order_id":"ORD-3003","item_id":"ITEM-03","quantity":3}
+[producer] 18:01:56.468107 published {"event_id":"evt-1792976516-3001","order_id":"ORD-3001","item_id":"ITEM-01","quantity":1}
+[producer] 18:01:56.468169 done, 4 messages published
